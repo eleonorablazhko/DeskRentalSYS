@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\windowsformsapp1\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\windowsformsapp1\\desktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\desktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|z:\\desktop\\uni\\year2\\semester2\\project c\\sd_re_blazhko_eleonora\\deskrentalsys\\windowsformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\windowsformsapp1\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|z:\\desktop\\uni\\year2\\semester2\\project c\\sd_re_blazhko_eleonora\\deskrentalsys\\windowsformsapp1\\frmremovedesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmremovedesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|z:\\desktop\\uni\\year2\\semester2\\project c\\sd_re_blazhko_eleonora\\deskrentalsys\\windowsformsapp1\\frmremovedesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmremovedesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|z:\\desktop\\uni\\year2\\semester2\\project c\\sd_re_blazhko_eleonora\\deskrentalsys\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DeskRentalSYS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\windowsformsapp1\\frmcancelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmcancelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\windowsformsapp1\\frmcancelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmcancelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\windowsformsapp1\\frmbookdesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmbookdesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\windowsformsapp1\\frmbookdesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmbookdesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|z:\\desktop\\uni\\year2\\semester2\\project c\\sd_re_blazhko_eleonora\\deskrentalsys\\windowsformsapp1\\frmregistercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmregistercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|z:\\desktop\\uni\\year2\\semester2\\project c\\sd_re_blazhko_eleonora\\deskrentalsys\\windowsformsapp1\\frmregistercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmregistercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|z:\\desktop\\uni\\year2\\semester2\\project c\\sd_re_blazhko_eleonora\\deskrentalsys\\windowsformsapp1\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\windowsformsapp1\\frmadddesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmadddesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\windowsformsapp1\\frmadddesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|solutionrelative:windowsformsapp1\\frmadddesk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EBF38-157C-4BFF-91D6-EA065FD079D3}|WindowsFormsApp1\\DeskRentalSYS.csproj|z:\\desktop\\uni\\year2\\semester2\\project c\\sd_re_blazhko_eleonora\\deskrentalsys\\windowsformsapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmRemoveDesk.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmRemoveDesk.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmRemoveDesk.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmRemoveDesk.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmRemoveDesk.cs",
+              "ViewState": "AQIAAFAAAAAA8GZmZmYPwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:31:02.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmRemoveDesk.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmRemoveDesk.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmRemoveDesk.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmRemoveDesk.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmRemoveDesk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:25:50.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\Customer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Customer.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\Customer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Customer.cs",
+              "ViewState": "AQIAABwBAAAA2GdmZmb4v1wAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:20:43.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\Booking.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Booking.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\Booking.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Booking.cs",
+              "ViewState": "AQIAANQAAACANGZmZmYQwMMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:31:19.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Desk.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\Desk.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Desk.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\Desk.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Desk.cs",
+              "ViewState": "AQIAACYBAAAAS////z8gwHIBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:51:24.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeskType.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\DeskType.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DeskType.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\DeskType.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DeskType.cs",
+              "ViewState": "AQIAAAoAAACAaGZmZmYEwEYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:23:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:30:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeskRentalSYS",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\DeskRentalSYS.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DeskRentalSYS.csproj",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\DeskRentalSYS.csproj",
+              "RelativeToolTip": "WindowsFormsApp1\\DeskRentalSYS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-14T11:30:04.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCancelBooking.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmCancelBooking.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmCancelBooking.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmCancelBooking.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmCancelBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:20:20.168Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCancelBooking.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmCancelBooking.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmCancelBooking.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmCancelBooking.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmCancelBooking.cs",
+              "ViewState": "AQIAAFYAAADAgJmZmRkgwFAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:20:22.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmRegisterCustomer.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmRegisterCustomer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmRegisterCustomer.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmRegisterCustomer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmRegisterCustomer.cs",
+              "ViewState": "AQIAAIkAAAAAfJmZmZkTwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:18:58.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmBookDesk.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmBookDesk.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmBookDesk.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmBookDesk.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmBookDesk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:34:42.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmBookDesk.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmBookDesk.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmBookDesk.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmBookDesk.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmBookDesk.cs",
+              "ViewState": "AQIAABEAAACAopmZmVklwLkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:35:02.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmRegisterCustomer.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmRegisterCustomer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmRegisterCustomer.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmRegisterCustomer.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmRegisterCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:18:55.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\DBConnect.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DBConnect.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\DBConnect.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DBConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:26:06.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAddDesk.cs",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmAddDesk.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmAddDesk.cs",
+              "ToolTip": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmAddDesk.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmAddDesk.cs",
+              "ViewState": "AQIAAGYAAAAARDMzMzMWwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:19:59.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmAddDesk.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\uni\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmAddDesk.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmAddDesk.cs",
+              "ToolTip": "Z:\\Desktop\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmAddDesk.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\year2\\semester2\\project c\\SD_RE_Blazhko_Eleonora\\DeskRentalSYS\\WindowsFormsApp1\\frmAddDesk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:19:57.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

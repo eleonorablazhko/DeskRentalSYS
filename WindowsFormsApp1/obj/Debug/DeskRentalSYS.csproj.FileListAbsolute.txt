@@ -1,0 +1,169 @@
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.AssemblyReference.cache
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDeregisterCustomer.resources
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddDesk.resources
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBookDesk.resources
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMainMenu.resources
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegisterCustomer.resources
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRemoveDesk.resources
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateCustomer.resources
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateDesk.resources
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.GenerateResource.cache
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.CoreCompileInputs.cache
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.AssemblyReference.cache
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDeregisterCustomer.resources
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddDesk.resources
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBookDesk.resources
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMainMenu.resources
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegisterCustomer.resources
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRemoveDesk.resources
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateCustomer.resources
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateDesk.resources
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.GenerateResource.cache
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.CoreCompileInputs.cache
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Desktop\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.AssemblyReference.cache
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDeregisterCustomer.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddDesk.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBookDesk.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMainMenu.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegisterCustomer.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRemoveDesk.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateCustomer.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateDesk.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.GenerateResource.cache
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.CoreCompileInputs.cache
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.SuggestedBindingRedirects.cache
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDBConnect.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Memory.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Memory.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRent.27C7C1C5.Up2Date
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmYearlyRevenue.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCustomerPreferences.resources
+Z:\Desktop\year2\semester1\RE\engineering project\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCancelBooking.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Memory.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Memory.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.AssemblyReference.cache
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.SuggestedBindingRedirects.cache
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCancelBooking.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCustomerPreferences.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDBConnect.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDeregisterCustomer.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddDesk.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBookDesk.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMainMenu.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegisterCustomer.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRemoveDesk.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateCustomer.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmYearlyRevenue.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateDesk.resources
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.GenerateResource.cache
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.CoreCompileInputs.cache
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRent.27C7C1C5.Up2Date
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Desktop\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Memory.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Formats.Asn1.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Memory.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.AssemblyReference.cache
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.SuggestedBindingRedirects.cache
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCancelBooking.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCustomerPreferences.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDBConnect.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDeregisterCustomer.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddDesk.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBookDesk.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMainMenu.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegisterCustomer.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRemoveDesk.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateCustomer.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmYearlyRevenue.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUpdateDesk.resources
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.GenerateResource.cache
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRentalSYS.csproj.CoreCompileInputs.cache
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\DeskRent.27C7C1C5.Up2Date
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Desktop\uni\year2\semester2\project c\SD_RE_Blazhko_Eleonora\DeskRentalSYS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
